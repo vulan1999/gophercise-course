@@ -1,3 +1,6 @@
 [submodule "exercise_1"]
 	path = exercise_1
 	url = https://github.com/vulan1999/gophercise-excercise-1.git
+[submodule "exercise_2"]
+	path = exercise_2
+	url = https://github.com/vulan1999/gophercise-excercise-2.git
